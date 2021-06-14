@@ -56,8 +56,8 @@ a:hover{
 }
 
 .bottom-container {
-background-color: #eeebdd;
-padding: 50px 0 20px;
+  background-color: #eeebdd;
+  padding: 50px 0 20px;
 }
 
 .skill-row{
@@ -69,6 +69,13 @@ padding: 50px 0 20px;
 
 .inter {
   text-decoration: underline;
+}
+
+.second-hr{
+  border: dotted #1b1717 6px;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 4%;
 }
 
 .intro{
