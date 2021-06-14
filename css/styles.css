@@ -71,13 +71,6 @@ a:hover{
   text-decoration: underline;
 }
 
-.second-hr{
-  border: dotted #1b1717 6px;
-  border-bottom: none;
-  margin: 100px auto;
-  width: 4%;
-}
-
 .intro{
   width: 30%;
   margin: auto;
